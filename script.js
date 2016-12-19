@@ -8,3 +8,8 @@ $(document).ready(function(){
     
     
 });
+
+img{
+    height:50px;
+    width:50px;
+}
